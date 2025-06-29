@@ -700,7 +700,7 @@ aside {
   top: 0;
   height: 110vh;
   width: 100vw;
-  fill: var(--secondary-bg-color);
+  fill: var(--primary-color);
 }
 .preloader .loader-container .loaded {
   font-size: 1.2rem;
@@ -2054,8 +2054,9 @@ header .navbar-expand .dropdown:hover > .dropdown-menu {
 
 .card {
   background-color: transparent;
-  border: none;
+  border-bottom: 6px solid #ccc;
   border-radius: var(--primary-border-radius);
+  /* box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
 }
 .card .image-holder {
   position: relative;
@@ -2075,7 +2076,7 @@ header .navbar-expand .dropdown:hover > .dropdown-menu {
   top: 0;
   bottom: auto;
   background: 17, 16, 19;
-  background: linear-gradient(180deg, rgba(17, 16, 19, 0.5) 0%, rgba(17, 16, 19, 0) 100%);
+  /* background: linear-gradient(180deg, rgba(17, 16, 19, 0.5) 0%, rgba(17, 16, 19, 0) 100%); */
 }
 .card .card-overlay.fade-up {
   transform: translateY(6%);
@@ -2178,16 +2179,25 @@ header .navbar-expand .dropdown:hover > .dropdown-menu {
 .portfolio-item.layout-2 .card-overlay {
   color: var(--white-color);
 }
-.portfolio-item.layout-2 .card-overlay .title,
+.portfolio-item.layout-2 .card-overlay .title{
+  /* color: var(--primary-color); */
+  color: #000;
+}
 .portfolio-item.layout-2 .card-overlay .badge {
-  color: var(--white-color);
+  /* color: var(--primary-color); */
+  color: #222;
 }
 .portfolio-item.layout-2 .card-overlay .show-project .project-link a {
   color: var(--white-color);
 }
 .portfolio-item.layout-2 .card-overlay:not(.top) {
   background: 17, 16, 19;
-  background: linear-gradient(360deg, rgba(17, 16, 19, 0.5) 0%, rgba(17, 16, 19, 0) 100%);
+  /* background: linear-gradient(360deg, rgba(17, 16, 19, 0.5) 0%, rgba(17, 16, 19, 0) 100%); */
+  background: #fff;
+
+
+  /* border-top: 1px solid #d9d9d9; */
+  backdrop-filter: blur(20px);
 }
 
 .portfolio-meta {
@@ -3195,7 +3205,8 @@ footer .smooth-anchor:hover::after {
 }
 .odd .blog-item .card-content .title a,
 .odd .blog-item .card-overlay .title a {
-  color: var(--white-color);
+  /* color: var(--white-color); */
+  
   background-image: linear-gradient(to right, var(--white-color) 0%, var(--white-color) 100%);
 }
 .odd .blog-item .card-content .post-meta span:not(.post-author) {
@@ -3714,3 +3725,8 @@ span.page-numbers:hover:not(.current) {
     font-size: 14px;
   }
 }
+.span-text{
+  background: linear-gradient(to right, #E100FF, #7F00FF) !important;
+  color: #fff !important;
+}
+

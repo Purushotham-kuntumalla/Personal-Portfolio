@@ -1,125 +1,217 @@
-<section class="blog">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-							<!-- Intro -->
-							<div class="intro d-flex justify-content-between align-items-center">
-								<h3 class="title">Insights</h3>
-								<a class="btn btn-outline content-btn swap-icon" href="blog.html">View All <i class="icon bi bi-arrow-right-short"></i></a>
+<div class="row">
+						<div class="stack-wrapper">
+							<div class="stack-item">
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/connexa.webp" alt="connexa.webp">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">Connexa Mobile App</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">App Design</a>
+														<a class="terms badge outlined" href="#">UI/UX</a>
+													</div>
+													<!-- <div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div> -->
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
+							<div class="stack-item">
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/grecto_delivery_app.webp" alt="grecto_delivery_app.webp">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">Grecto delivery partner App</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">App Design</a>
+														<a class="terms badge outlined" href="#">UI/UX</a>
+													</div>
+													<!-- <div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div> -->
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stack-item">
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/grecto.webp" alt="grecto.webp">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">Grecto E-commerce</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">App Design</a>
+														<a class="terms badge outlined" href="#">UI/UX</a>
+													</div>
+													<!-- <div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div> -->
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Stack Item -->
+							<div class="stack-item">
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/jayatha.webp" alt="jayatha.png">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">Jaytha E-commerce</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">Web Design & App Design</a>
+														<a class="terms badge outlined" href="#">UI/UX</a>
+													</div>
+													<div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Stack Item -->
+							<div class="stack-item">
+								<!-- Card Element -->
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/myra_webdesign.webp" alt="">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">Myra Homes</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">Web Design Design</a>
+														<a class="terms badge outlined" href="#">UI/UX </a>
+													</div>
+													<div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Stack Item -->
+							<div class="stack-item">
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/Helomate.webp" alt="">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">Helomate</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">App Design</a>
+														<a class="terms badge outlined" href="#">UI/UX</a>
+													</div>
+													<div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Stack Item -->
+							<div class="stack-item">
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/leadinterio.webp" alt="">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">leadinterio</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">App Design</a>
+														<a class="terms badge outlined" href="#">UI/UX</a>
+													</div>
+													<div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+							<div class="stack-item">
+								<div class="card portfolio-item layout-2 scale has-shadow">
+									<div class="image-holder">
+										<!-- Card Thumb -->
+										<a class="card-thumb" href="portfolio-single.html">
+											<img src="assets/img/content/DliteIndustries.webp" alt="">
+										</a>
+										<!-- Card Overlay -->
+										<div class="card-overlay">
+											<div class="heading">
+												<h4 class="title mt-2 mt-md-3 mb-3">DliteIndustries</h4>
+												<div class="show-project">
+													<div class="card-terms">
+														<a class="terms badge outlined" href="#">App Design </a>
+														<a class="terms badge outlined" href="#">UI/UX</a>
+													</div>
+													<div class="project-link">
+														<a href="portfolio-single.html">Show Project</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+
+
+							
 						</div>
 					</div>
-
-					<div class="row items">
-						<div class="col-12 col-md-6 col-lg-4 item">
-							<!-- Post -->
-							<div class="card blog-item">
-								<div class="image-holder">
-									<!-- Card Thumb -->
-									<a class="card-thumb" href="blog-single.html">
-										<img src="assets/img/blog/blog-1.jpg" alt="">
-									</a>
-									<div class="card-overlay top fade-down">
-										<div class="logo">
-											<img src="assets/img/logo/logo.png" alt="">
-										</div>
-										<div class="post-meta d-flex flex-column ms-3">
-											<span>Posted by</span>
-											<span class="post-author"><strong>themeland</strong></span>
-										</div>
-									</div>
-								</div>
-								<!-- Card Overlay -->
-								<div class="card-content mt-3">
-									<div class="heading">
-										<div class="post-meta d-flex">
-											<span class="post-date"><i class="bi bi-clock me-1"></i>August 20, 2024</span>
-										</div>
-										<h4 class="title my-2">
-											<a href="blog-single.html">The Future of Digital Design - Trends to Watch</a>
-										</h4>
-										<div class="card-terms">
-											<a class="terms badge" href="#">Branding</a>
-											<a class="terms badge" href="#">Design</a>
-											<a class="terms badge" href="#">Trends</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-12 col-md-6 col-lg-4 item">
-							<!-- Post -->
-							<div class="card blog-item">
-								<div class="image-holder">
-									<!-- Card Thumb -->
-									<a class="card-thumb" href="blog-single.html">
-										<img src="assets/img/blog/blog-2.jpg" alt="">
-									</a>
-									<div class="card-overlay top fade-down">
-										<div class="logo">
-											<img src="assets/img/logo/logo.png" alt="">
-										</div>
-										<div class="post-meta d-flex flex-column ms-3">
-											<span>Posted by</span>
-											<span class="post-author"><strong>themeland</strong></span>
-										</div>
-									</div>
-								</div>
-								<!-- Card Overlay -->
-								<div class="card-content mt-3">
-									<div class="heading">
-										<div class="post-meta d-flex">
-											<span class="post-date"><i class="bi bi-clock me-1"></i>August 20, 2024</span>
-										</div>
-										<h4 class="title my-2">
-											<a href="blog-single.html">Building User Trust Through Thoughtful UI/UX Design</a>
-										</h4>
-										<div class="card-terms">
-											<a class="terms badge" href="#">UI/UX</a>
-											<a class="terms badge" href="#">Software</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-12 col-md-6 col-lg-4 item">
-							<!-- Post -->
-							<div class="card blog-item">
-								<div class="image-holder">
-									<!-- Card Thumb -->
-									<a class="card-thumb" href="blog-single.html">
-										<img src="assets/img/blog/blog-3.jpg" alt="">
-									</a>
-									<div class="card-overlay top fade-down">
-										<div class="logo">
-											<img src="assets/img/logo/logo.png" alt="">
-										</div>
-										<div class="post-meta d-flex flex-column ms-3">
-											<span>Posted by</span>
-											<span class="post-author"><strong>themeland</strong></span>
-										</div>
-									</div>
-								</div>
-								<!-- Card Overlay -->
-								<div class="card-content mt-3">
-									<div class="heading">
-										<div class="post-meta d-flex">
-											<span class="post-date"><i class="bi bi-clock me-1"></i>August 20, 2024</span>
-										</div>
-										<h4 class="title my-2">
-											<a href="blog-single.html">The Role of Color Psychology in Effective Branding</a>
-										</h4>
-										<div class="card-terms">
-											<a class="terms badge" href="#">Design</a>
-											<a class="terms badge" href="#">Branding</a>
-											<a class="terms badge" href="#">Technology</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
